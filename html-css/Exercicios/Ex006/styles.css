@@ -1,0 +1,14 @@
+@charset "UTF-8";
+.imagem{
+  padding-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+h1{
+  font-size: 35px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+p2{color: gray; }
+
